@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annecamille
-- 👀 I’m interested in coffee, cats, games
+- 👀 I’m interested in coffee, cats, games, goats
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me annecamille05@gmail.com
 
